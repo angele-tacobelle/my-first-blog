@@ -1,0 +1,5 @@
+*.pyc
+__pycache__
+higirls.py
+db.sqlite3
+.DS_Store
